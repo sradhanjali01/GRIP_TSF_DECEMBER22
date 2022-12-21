@@ -1,0 +1,116 @@
+*{
+    margin: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+}
+body{
+    background-image: url('pic1.jpg');
+    background-size: cover;
+    background-attachment: fixed;
+    min-height:100vh;
+}
+
+header{
+    background-color: #3d251ea8;
+    box-shadow: 3px 0px 10px  blue;
+    position: sticky;
+    top: 0;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+#menu{
+    display: flex;
+}
+#logo img{
+    margin: 10px;
+    width: 70px;
+    height: 60px;
+}
+.menu-item{
+    margin: 10px 6px;
+    padding: 6px 20px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 20px;
+    font-weight: bolder;
+    
+}
+.menu-item a{
+    color: #e4ae7e;
+}
+
+.container{
+    max-width: 800px;
+    padding: 100px;
+    text-align: center;
+    margin: 10px auto;
+    font-size: 30px;
+ 
+}
+.container h1{
+    color:#DAA06D;
+    text-shadow: 2px 2px #3d251e;
+    height: 20vh;
+}
+.container p{
+    color:  #3d251e;
+    height: 70px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+   
+}
+
+.menu-item:hover{
+    border: 2px solid rgba(156, 21, 131, 0.546);
+    border-radius: 10%;
+}
+
+.pbtn a{
+    color:#15c808;
+    text-align: center;
+    padding: 6px;
+    width: 15%;
+    border: 1px solid;
+    background: #d27d2d9b;
+    text-decoration: none;
+}
+.pbtn{
+    margin-left: 43vw;
+    font-size:40px;
+    font-weight: 600;
+}
+.pbtn a:hover{
+    background:#daa06dad;
+    color:#3d251e;
+
+}
+.box{
+    background-color: #3d251ea1;
+    color:#daa06d;
+    height: 70vh;
+    width: 50vw;
+    max-width: 800px;
+    padding: 100px;
+    text-align: center;
+    margin: 10px auto;
+    font-size: 30px;
+}
+.box p{
+    height: 20vh;
+}
+.box img{
+    height: 100px;
+    width: 200px;
+    border-radius: 10%;
+}
+footer{
+    height: 8vh;
+    color:rgb(240, 133, 75, 0.546);
+    font-family: 'Lato', sans-serif;
+    display:flex;
+    flex-direction:column;
+    justify-content: center;
+    align-items: center;
+    padding-top: 120px;
+    padding-bottom: 0;
+}
+

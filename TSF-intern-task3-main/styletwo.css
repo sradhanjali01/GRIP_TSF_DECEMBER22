@@ -1,0 +1,24 @@
+.box2{
+    background-color: #3d251ea1;
+    color:palegoldenrod;
+    height: 70vh;
+    width: 50vw;
+    max-width: 800px;
+    text-align: center;
+    margin: 10px auto;
+    font-size: 20px;  
+}
+.box2 h1{
+    height: 150px;
+    padding: 40px;
+}
+.contactlist{
+    text-align: left;
+    list-style: none;
+    padding: 50px;
+    font-size: 30px;
+    
+}
+.contactlist h1{
+    height: 20px;
+}
