@@ -14,5 +14,5 @@ you can also find this page which can live in:-"https://sradhanjaliswainpaymenti
 ![Screenshot (9)](https://user-images.githubusercontent.com/119798761/208843251-78d4bb4d-b1bd-464b-9f78-97b60f40c9b5.png)
 [ABOUT PAGE]
 
-![Screenshot (10)](https://user-images.githubusercontent.com/119798761/208843340-0aff68b9-f437-4aee-bab0-1cfbfc702dba.png)
+
 [CONTACT US]
